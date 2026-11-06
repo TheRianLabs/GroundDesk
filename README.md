@@ -2,7 +2,7 @@
 
 A responsive landing page for a fictional finance and file-storage product, built from a Figma design as a practice project. It has a hero section, solution cards, a pricing section with a monthly/annual toggle, testimonials, a footer and a mobile menu.
 
-![GroundDesk on desktop](screenshots/desktop.png)
+![GroundDesk on desktop](Grounddesk-landing.png)
 
 **Live demo:** https://github.com/TheRianLabs/GroundDesk
 
