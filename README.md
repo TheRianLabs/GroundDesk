@@ -4,7 +4,7 @@ A responsive landing page for a fictional finance and file-storage product, buil
 
 ![GroundDesk on desktop](screenshots/Grounddesk-landing.png)
 
-**Live demo:** https://github.com/TheRianLabs/GroundDesk
+**Live demo:** coming soon...
 
 ## Built with
 
